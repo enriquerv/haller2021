@@ -24,7 +24,7 @@
 							<div class="card" style="width: 18rem; margin: 0 auto;">
 								<img src="assets/images/card_instituto.jpg" class="card-img-top" alt="...">
 								<div class="card-body card-top">
-									<h5 class="card-title">Instituto Rafael Haller</h5>
+									<h5 class="card-title text-center">Instituto Rafael Haller</h5>
 									<p class="card-text">Maternal, Preescolar, 1st English, Primaria, Secundaria, Preparatoria</p>
 									<a href="<?php echo $direction; ?>/instituto" class="btn btn-primary btn-into">Entrar</a>
 								</div>
@@ -35,7 +35,7 @@
 							<div class="card" style="width: 18rem; margin: 0 auto;">
 								<img src="assets/images/card_universidad.jpg" class="card-img-top" alt="...">
 								<div class="card-body card-top">
-									<h5 class="card-title">Centro Universitario Haller</h5>
+									<h5 class="card-title text-center">Centro Universitario Haller</h5>
 									<p class="card-text">Derecho, Turismo, Gastronomía, Mercadotecnia, Ciencias de la Educación, Administración de Empresas, Comercio Internacional y Aduanas</p>
 									<a href="<?php echo $direction; ?>/universidad" class="btn btn-primary btn-into">Entrar</a>
 								</div>
@@ -46,7 +46,7 @@
 							<div class="card" style="width: 18rem; margin: 0 auto;">
 								<img src="assets/images/card_sobrecargo.jpg" class="card-img-top" alt="...">
 								<div class="card-body card-top">
-									<h5 class="card-title">Sobrecargo de Aviación Haller</h5>
+									<h5 class="card-title text-center">Sobrecargo de Aviación Haller</h5>
 									<p class="card-text">Emprende tu vuelo con nosotros. Curso de sobrecargo de Aviación reconocido por la AFAC F-170</p>
 									<a href="<?php echo $direction; ?>/sobrecargo" class="btn btn-primary btn-into">Entrar</a>
 								</div>

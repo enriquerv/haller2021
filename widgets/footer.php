@@ -6,7 +6,7 @@
 		  			<p class="text-center sec-footer">  				
 		  				<b> Campus Tepotzotlán</b> 
 		  				<br><br>
-						Tel. 58-76-66-82
+						Tel. 58-76-66-82 / 55-58-76-44-30
 						<br>
 						haller.vinculacion@gmail.com
 		  			</p>

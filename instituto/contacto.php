@@ -22,12 +22,14 @@
 
 				<b>CAMPUS TEPOTZOTLÁN</b><br>
 				AV.BENITO JUÁREZ N.4 BARRIO SAN MARTÍN TEPOTZOTLÁN.<br>
-				TEL: 58-76-66-82 <br><br>			 
+				Tel. 58-76-66-82 / 55-58-76-44-30<br>		 
+				Correo haller.vinculacion@gmail.com<br><br>			 
 
 				<b>CAMPUS IZCALLI</b><br>
 				ANDADOR ILRANDA IT. 58, 59 Y 60<br>
 				Col. Centro Urbano Cuautitlán Izcalli<br>
-				TEL: 58-73-52-92
+				TEL: 58-73-52-92<br>
+				Correo haller.vinculacion@gmail.com
 			</div>
 			<div class="col-md-6">
 				<div class="row">
