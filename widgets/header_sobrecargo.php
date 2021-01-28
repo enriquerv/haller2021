@@ -2,25 +2,25 @@
     <div class="container-fluid">
         <ul class="nav navbar-nav">
             <li class="nav-item active">
-                <a class="nav-link" href="https://www.facebook.com/InstitutoRafaelHaller/" target="_blank">
-                    <img src="<?php echo $direction; ?>/assets/images/fb_az_in.png" width="80px">
+                <a class="nav-link" href="https://www.facebook.com/CentroUniversitarioHallerOficial/" target="_blank">
+                    <img src="<?php echo $direction; ?>/assets/images/uni_f_a.png" width="80px">
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="https://twitter.com/HallerInstituto" target="_blank">
-                    <img src="<?php echo $direction; ?>/assets/images/tw_az_in.png" width="80px">
+                <a class="nav-link" href="https://twitter.com/CentroHaller" target="_blank">
+                    <img src="<?php echo $direction; ?>/assets/images/uni_t_a.png" width="80px">
                 </a>
             </li>
         </ul>
         <ul class="nav navbar-nav">
             <li class="nav-item">
-                <a class="nav-link" href="https://www.instagram.com/institutorafael_haller/" target="_blank">
-                    <img src="<?php echo $direction; ?>/assets/images/in_az_in.png" width="80px">
+                <a class="nav-link" href="https://www.instagram.com/cuniversitario_haller/" target="_blank">
+                    <img src="<?php echo $direction; ?>/assets/images/uni_i_a.png" width="80px">
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="https://www.youtube.com/channel/UCIK3jccyaRDlb3Dr_Vm8KAQ" target="_blank">
-                    <img src="<?php echo $direction; ?>/assets/images/yt_az_in.png" width="80px">
+                <a class="nav-link" href="https://www.youtube.com/channel/UCVLgB9MAgABG3qUnKh2aWCg" target="_blank">
+                    <img src="<?php echo $direction; ?>/assets/images/uni_y_a.png" width="80px">
                 </a>
             </li>
         </ul>

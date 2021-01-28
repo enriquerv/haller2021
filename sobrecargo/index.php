@@ -28,8 +28,8 @@
 					Satisfacer las necesidades y exigencias de cualquier compañía aérea, nacional e internacional, privada y comercial, a través de sus prácticas profesionales y sus programas de estudio.
 				</p>	
 			</div>		
-			<div class="col-md-6">
-				<img src="<?php echo $direction; ?>/assets/images/new/sob_02.jpg" width="100%">
+			<div class="col-md-6 text-center">
+				<img src="<?php echo $direction; ?>/sobrecargo/images/pw_s_img1.jpg" width="50%">
 			</div>
 
 			<div class="col-md-6 pt-5" id="ventajas_sobrecargo">
@@ -40,15 +40,13 @@
 				<li>Curso de primeros auxilios impartido por un médico certificado en Urgencias.</li>
 				<li>Certificación de primeros auxilios para los alumnos con valor curricular.</li>
 				<li>Ingles incluido durante todo el curso.</li>
-				<li>Practica en Interjet en un avión real.</li>
 				<li>Simulador para prácticas de emergencia.</li>
 				<li>Curso de etiqueta.</li>
-				<li>Convenio con Volaris para entrevista de trabajo.</li>
 				<li>Tramite de licencia de sobrecargo elaborado por la escuela.</li>
 				<li>Curso con duración de 4 meses.</li>
 			</div>		
-			<div class="col-md-6 pt-5">
-				<img src="<?php echo $direction; ?>/assets/images/new/sob_03.jpg" width="100%">
+			<div class="col-md-6 pt-5 text-center">
+				<img src="<?php echo $direction; ?>/sobrecargo/images/pw_s_img2.jpg" width="50%">
 			</div>
 
 			<section class="inst_video" id='contVideo' style="margin-top: 150px;">
@@ -119,8 +117,8 @@
 				<li><a href="https://ts.sct.gob.mx/cis/pg00000002.jsp" target="_blank">Constancia de Aptitud Psicofisica</a></li>
 				<li>2 Fotografías tamaño pasaporte</li>
 			</div>		
-			<div class="col-md-6">
-				<img src="<?php echo $direction; ?>/assets/images/new/sob_04.jpg" width="100%">
+			<div class="col-md-6 text-center">
+				<img src="<?php echo $direction; ?>/sobrecargo/images/pw_s_img3.jpg" width="100%">
 			</div>
 
 			<div class="col-md-6 pt-5">
