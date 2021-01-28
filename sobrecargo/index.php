@@ -29,7 +29,7 @@
 				</p>	
 			</div>		
 			<div class="col-md-6 text-center">
-				<img src="<?php echo $direction; ?>/sobrecargo/images/pw_s_img1.jpg" width="50%">
+				<img src="<?php echo $direction; ?>/sobrecargo/images/pw_s_img1.jpg" width="70%">
 			</div>
 
 			<div class="col-md-6 pt-5" id="ventajas_sobrecargo">
@@ -46,7 +46,7 @@
 				<li>Curso con duración de 4 meses.</li>
 			</div>		
 			<div class="col-md-6 pt-5 text-center">
-				<img src="<?php echo $direction; ?>/sobrecargo/images/pw_s_img2.jpg" width="50%">
+				<img src="<?php echo $direction; ?>/sobrecargo/images/pw_s_img2.jpg" width="70%">
 			</div>
 
 			<section class="inst_video" id='contVideo' style="margin-top: 150px;">
